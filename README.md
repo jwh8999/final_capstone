@@ -7,7 +7,7 @@
 - [Usage](#Usage)
 
 # Description
-A task manage that allows the user to store and manage different tasks that they want to do.
+A task manager that allows the user to store and manage different tasks that they want to do.
 Has the functionality of seperate user accounts to which different tasks can be assigned
 Has different functions such as the ability to add new tasks, view all tasks, and manage one's own tasks.
 The admin has extra options such as the ability to add new users and generate statistics about tasks.
